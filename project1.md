@@ -32,3 +32,7 @@ after enabling, i got this image on my website
 ![FFDF5E68-6B7B-4372-A4B9-958814AFA18E](https://github.com/Sinuel08/dareyio-project1/assets/138252849/dd3e2320-ebaf-49f5-b0c0-4fa9415d786d)
 
 ![C892F0FA-6404-486E-B196-F3A5548E7079](https://github.com/Sinuel08/dareyio-project1/assets/138252849/314252f8-1548-4279-a3b4-83be10b67e0b)
+
+The last image shows how my website looks After checking the relevant information about my PHP server through that page. it’s best to remove the file i created as it contains sensitive information about my PHP environment -and my Ubuntu server. i use the command sudo rm /var/www/projectlamp/index.php.
+
+
