@@ -35,4 +35,6 @@ after enabling, i got this image on my website
 
 The last image shows how my website looks After checking the relevant information about my PHP server through that page. it’s best to remove the file i created as it contains sensitive information about my PHP environment -and my Ubuntu server. i use the command sudo rm /var/www/projectlamp/index.php.
 
+Thank You
+
 
