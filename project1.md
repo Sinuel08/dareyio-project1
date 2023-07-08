@@ -27,3 +27,8 @@ I set up a domain and i called it projectLamp,created a directory for it usingsu
 
 ##STEP 5 — ENABLE PHP ON THE WEBSITE
 after enabling, i got this image on my website
+![FC0DF7CD-3A25-4FDB-BF81-74DD8796F778](https://github.com/Sinuel08/dareyio-project1/assets/138252849/e825d28b-208a-4487-8e67-412526142611)
+
+![FFDF5E68-6B7B-4372-A4B9-958814AFA18E](https://github.com/Sinuel08/dareyio-project1/assets/138252849/dd3e2320-ebaf-49f5-b0c0-4fa9415d786d)
+
+![C892F0FA-6404-486E-B196-F3A5548E7079](https://github.com/Sinuel08/dareyio-project1/assets/138252849/314252f8-1548-4279-a3b4-83be10b67e0b)
